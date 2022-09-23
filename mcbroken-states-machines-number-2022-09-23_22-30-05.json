@@ -1,0 +1,155 @@
+{
+    "New York": {
+        "machines_number": 561
+    },
+    "New Jersey": {
+        "machines_number": 241
+    },
+    "Connecticut": {
+        "machines_number": 130
+    },
+    "Pennsylvania": {
+        "machines_number": 456
+    },
+    "Delaware": {
+        "machines_number": 35
+    },
+    "Massachusetts": {
+        "machines_number": 222
+    },
+    "Maryland": {
+        "machines_number": 256
+    },
+    "Rhode Island": {
+        "machines_number": 29
+    },
+    "Vermont": {
+        "machines_number": 24
+    },
+    "New Hampshire": {
+        "machines_number": 50
+    },
+    "District of Columbia": {
+        "machines_number": 25
+    },
+    "Virginia": {
+        "machines_number": 379
+    },
+    "West Virginia": {
+        "machines_number": 99
+    },
+    "Maine": {
+        "machines_number": 57
+    },
+    "North Carolina": {
+        "machines_number": 439
+    },
+    "Ohio": {
+        "machines_number": 584
+    },
+    "Michigan": {
+        "machines_number": 500
+    },
+    "Kentucky": {
+        "machines_number": 243
+    },
+    "Tennessee": {
+        "machines_number": 306
+    },
+    "South Carolina": {
+        "machines_number": 215
+    },
+    "Indiana": {
+        "machines_number": 330
+    },
+    "Georgia": {
+        "machines_number": 422
+    },
+    "Illinois": {
+        "machines_number": 625
+    },
+    "Wisconsin": {
+        "machines_number": 281
+    },
+    "Alabama": {
+        "machines_number": 230
+    },
+    "Florida": {
+        "machines_number": 818
+    },
+    "Iowa": {
+        "machines_number": 136
+    },
+    "Missouri": {
+        "machines_number": 294
+    },
+    "Mississippi": {
+        "machines_number": 134
+    },
+    "Arkansas": {
+        "machines_number": 159
+    },
+    "Minnesota": {
+        "machines_number": 208
+    },
+    "Kansas": {
+        "machines_number": 137
+    },
+    "Louisiana": {
+        "machines_number": 217
+    },
+    "Nebraska": {
+        "machines_number": 74
+    },
+    "Oklahoma": {
+        "machines_number": 182
+    },
+    "South Dakota": {
+        "machines_number": 27
+    },
+    "North Dakota": {
+        "machines_number": 23
+    },
+    "Texas": {
+        "machines_number": 1055
+    },
+    "Colorado": {
+        "machines_number": 184
+    },
+    "Wyoming": {
+        "machines_number": 25
+    },
+    "Montana": {
+        "machines_number": 44
+    },
+    "New Mexico": {
+        "machines_number": 87
+    },
+    "Utah": {
+        "machines_number": 101
+    },
+    "Arizona": {
+        "machines_number": 253
+    },
+    "Idaho": {
+        "machines_number": 56
+    },
+    "Nevada": {
+        "machines_number": 117
+    },
+    "Washington": {
+        "machines_number": 236
+    },
+    "Oregon": {
+        "machines_number": 147
+    },
+    "California": {
+        "machines_number": 1158
+    },
+    "Alaska": {
+        "machines_number": 24
+    },
+    "Hawaii": {
+        "machines_number": 71
+    }
+}
